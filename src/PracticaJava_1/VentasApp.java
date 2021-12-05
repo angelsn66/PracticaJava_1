@@ -9,7 +9,7 @@ public class VentasApp {
     public static void main(String[] args) {
   
         Scanner sc = new Scanner(System.in);
-        System.out.println("Introduce el número de ventas");
+        System.out.println("Introduce el número de ventas, es un cambio");
         int numVentas=sc.nextInt();
   
         /*Declaramos una variable para sumar las ventas,
